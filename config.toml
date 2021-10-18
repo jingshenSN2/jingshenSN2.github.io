@@ -70,7 +70,7 @@ theme = 'loveit'
       # LOGO 的 URL
       logo = ""
       # 标题名称
-      name = "Jingsong Gao"
+      name = "JINGSONG GAO"
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
       pre = ""
       # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
@@ -126,9 +126,9 @@ theme = 'loveit'
       # 主页显示头像的 URL
       avatarURL = "/images/avatar.jpg"
       #  主页显示的网站标题 (支持 HTML 格式)
-      title = "Jingsong Gao"
+      title = "Hi, I'm Jingsong Gao"
       # 主页显示的网站副标题
-      subtitle = "I'm Jingsong Gao, a graduate student at Georgetown Univeristy major in Data Science and Analytics. Welcome to my personal blog! Feel free to check my projects."
+      subtitle = "I'm a graduate student at Georgetown Univeristy major in Data Science and Analytics. Welcome to my personal blog and feel free to check my posts."
       # 是否为副标题显示打字机动画
       typeit = false
       # 是否显示社交账号
@@ -146,15 +146,15 @@ theme = 'loveit'
 
   # 作者的社交信息设置
   [params.social]
-    GitHub = "https://github.com/jingshenSN2/"
-    Linkedin = "https://www.linkedin.com/in/jingsong-gao-339ba5175/"
-    Instagram = "https://www.instagram.com/jingsong_gao/"
-    Facebook = "https://www.facebook.com/jingsong.gao.7"
-    Weibo = "https://weibo.com/u/1043642860"
-    Steam = "https://steamcommunity.com/id/js_gao/"
-    Bilibili = "https://space.bilibili.com/3117053"
+    GitHub = "jingshenSN2"
+    Linkedin = "jingsong-gao-339ba5175"
+    Instagram = "jingsong_gao"
+    Facebook = "jingsong.gao.7"
+    Weibo = "1043642860"
+    Steam = "js_gao/"
+    Bilibili = "3117053"
     Email = "jg2109@georgetown.edu"
-    RSS = true # 
+    RSS = false # 
 
   #  文章页面配置
   [params.page]
