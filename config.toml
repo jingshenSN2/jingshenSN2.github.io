@@ -70,7 +70,7 @@ theme = 'loveit'
       # LOGO 的 URL
       logo = ""
       # 标题名称
-      name = ""
+      name = "Jingsong Gao"
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
       pre = ""
       # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
@@ -433,7 +433,7 @@ theme = 'loveit'
 [author]
   name = "Jingsong Gao"
   email = "jg2109@georgetown.edu"
-  link = "https://www.linkedin.com/in/jingsong-gao-339ba5175/"
+  link = ""
 
 # 网站地图配置
 [sitemap]
