@@ -4,7 +4,15 @@
         <link>/posts/</link>
         <description>All Posts | Jingsong Gao</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>jg2109@georgetown.edu (Jingsong Gao)</managingEditor>
-            <webMaster>jg2109@georgetown.edu (Jingsong Gao)</webMaster><lastBuildDate>Sun, 17 Oct 2021 22:19:21 -0400</lastBuildDate><atom:link href="/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>jg2109@georgetown.edu (Jingsong Gao)</webMaster><lastBuildDate>Mon, 06 Dec 2021 23:41:27 -0500</lastBuildDate><atom:link href="/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Three Projects (Fall 2021)</title>
+    <link>/fall2021/</link>
+    <pubDate>Mon, 06 Dec 2021 23:41:27 -0500</pubDate>
+    <author>Author</author>
+    <guid>/fall2021/</guid>
+    <description><![CDATA[Introduction In this semester, I took 3 courses as a first year graduate student at Georgetown University:
+ ANLY 501: Data Science and Analytics ANLY 511: Prob Modeling/Stat Computing ANLY 580: NLP for Data Analytics  Since our program doesn&rsquo;t have final exam, all three courses are ended with a final project. In ANLY 501, I created a portfolio that studied the impact from cryptocurrencies on PC hardware. In ANLY 511, we explored the 2021 Kaggle Data Science and Machine Learning survey to answer our questions about career path.]]></description>
+</item><item>
     <title>My First Post</title>
     <link>/my-first-post/</link>
     <pubDate>Sun, 17 Oct 2021 22:19:21 -0400</pubDate>
