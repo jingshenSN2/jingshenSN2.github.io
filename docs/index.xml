@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Jingsong Gao</title>
+        <link>/</link>
+        <description>Jingsong Gao&#39;s Personal Website</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>jg2109@georgetown.edu (Jingsong Gao)</managingEditor>
+            <webMaster>jg2109@georgetown.edu (Jingsong Gao)</webMaster><lastBuildDate>Sun, 17 Oct 2021 22:19:21 -0400</lastBuildDate>
+            <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>My First Post</title>
+    <link>/my-first-post/</link>
+    <pubDate>Sun, 17 Oct 2021 22:19:21 -0400</pubDate>
+    <author>Author</author>
+    <guid>/my-first-post/</guid>
+    <description><![CDATA[Hello, I&rsquo;m Jingsong!]]></description>
+</item></channel>
+</rss>
